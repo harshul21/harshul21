@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshul21
+- 👋 Hi, I’m Harshul Garg
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on software development projects
